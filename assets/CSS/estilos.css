@@ -1,6 +1,7 @@
 body {
     background-color: rgb(12, 25, 70);
     color: rgb(250, 251, 252);
+    margin: 5%;
 }
 
 header { 
@@ -8,19 +9,60 @@ header {
     text-align:center;
     color: rgb(249, 249, 252);
     font-size: small;
+    
 }
 
 nav {
     background-color: black;
     text-align: center;
-    color: rgb(248, 184, 23);
+    color: rgb(173, 172, 169);
     font-size: small;
 }
-
 
 footer {
     background-color: black;
     text-align: right;
     color: darkgray
     font-size: small
+} 
+.contenido {
+    margin: 2%;
 }
+#Datos {
+    background-color: rgb(236, 192, 98);
+    color: black;
+}
+
+#Resumen {
+    background-color: rgb(236, 192, 98);
+    color: black;
+    text-align: justify;
+}
+
+#Experiencia {
+    background-color: rgb(236, 192, 98);
+    color: black;
+}
+
+#Academica {
+    background-color: rgb(236, 192, 98);
+    color: black;
+}
+
+#complementaria {
+    background-color: rgb(236, 192, 98);
+    color: black;
+}
+
+#lengua {
+    background-color: rgb(236, 192, 98);
+    color: black;
+}
+
+#soft {
+    background-color: rgb(236, 192, 98);
+    color: black;}
+
+ #otros {
+        background-color: rgb(236, 192, 98);
+        color: black;}
