@@ -1,28 +1,33 @@
 body {
-    background-color: rgb(12, 25, 70);
+    background-color: rgb(14, 33, 62);
     color: rgb(250, 251, 252);
-    margin: 5%;
+    margin: 2%;
+}
+
+img {background-color: rgb(12, 25, 70);
+    width: 200px;
+    display:block;
+    margin:auto; 
 }
 
 header { 
-    background-color: black;
+    background-color:  rgb(236, 192, 98);
     text-align:center;
-    color: rgb(249, 249, 252);
-    font-size: small;
-    
+    color: rgb(0, 0, 0);
+    font-size: small;   
 }
 
 nav {
-    background-color: black;
+    background-color: rgb(236, 192, 98);
     text-align: center;
-    color: rgb(173, 172, 169);
+    color: rgb(33, 26, 162);
     font-size: small;
 }
 
 footer {
-    background-color: black;
+    background-color:  rgb(0, 0, 0);
     text-align: right;
-    color: darkgray
+    color: darkgray;
     font-size: small
 } 
 .contenido {
@@ -32,37 +37,31 @@ footer {
     background-color: rgb(236, 192, 98);
     color: black;
 }
-
 #Resumen {
     background-color: rgb(236, 192, 98);
     color: black;
     text-align: justify;
 }
-
 #Experiencia {
     background-color: rgb(236, 192, 98);
     color: black;
 }
-
 #Academica {
     background-color: rgb(236, 192, 98);
     color: black;
 }
-
 #complementaria {
     background-color: rgb(236, 192, 98);
     color: black;
 }
-
 #lengua {
     background-color: rgb(236, 192, 98);
     color: black;
 }
-
 #soft {
     background-color: rgb(236, 192, 98);
-    color: black;}
-
- #otros {
+    color: black;
+}
+#otros {
         background-color: rgb(236, 192, 98);
         color: black;}
